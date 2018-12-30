@@ -11,4 +11,4 @@ As you can tell that the liquor market can be categorized into both manufacturin
 ### Process
 xxx...
 ### Data Source
-[The State of Iowa's data portal](https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy) provides enormous datasets about Iowa. Therefore, I downloaded the dataset from this website.
+[The State of Iowa's data portal](https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy) provides enormous datasets about Iowa. The dataset for the liquor market can be found on this website.
